@@ -1,4 +1,4 @@
-# TaskMaster
+# TaskMaster`n`n<p align="center">`n  <a href="https://github.com/sponsors/anshdeepofficial"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" height="40" /></a>`n  <a href="https://buymeacoffee.com/anshdeepofficial"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40" /></a>`n</p>
 
 A lightweight, browser-based task management application with a sleek UI, reminder system, and user personalization.
 
@@ -22,10 +22,3 @@ TaskMaster is a simple yet powerful to-do application that helps you organize yo
 - **Reminder System** that alerts you of tasks due today
 - **Local Storage** to save tasks between browser sessions
 - **Fully Responsive Design** that works on mobile and desktop
-
-## Support Development
-
-This project is free and open source. If you find it useful, you can support continued development through:
-
-- [GitHub Sponsors](https://github.com/sponsors/anshdeepofficial)
-- [Buy Me a Coffee](https://buymeacoffee.com/anshdeepofficial)
