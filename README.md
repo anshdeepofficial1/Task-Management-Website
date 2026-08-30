@@ -22,3 +22,10 @@ TaskMaster is a simple yet powerful to-do application that helps you organize yo
 - **Reminder System** that alerts you of tasks due today
 - **Local Storage** to save tasks between browser sessions
 - **Fully Responsive Design** that works on mobile and desktop
+
+## Support Development
+
+This project is free and open source. If you find it useful, you can support continued development through:
+
+- [GitHub Sponsors](https://github.com/sponsors/anshdeepofficial)
+- [Buy Me a Coffee](https://buymeacoffee.com/anshdeepofficial)
