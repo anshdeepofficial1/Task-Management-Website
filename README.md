@@ -1,28 +1,64 @@
-# TaskMaster
-<p align="center">
-  <a href="https://github.com/sponsors/anshdeepofficial"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" height="40" /></a>
-  <a href="https://buymeacoffee.com/anshdeepofficial"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40" /></a>
-</p>
+<div align="center">
 
-A lightweight, browser-based task management application with a sleek UI, reminder system, and user personalization.
+# ✅ TaskMaster
 
-## Overview
+**A clean browser-based task manager for priorities, due dates, reminders, and everyday planning.**
 
-TaskMaster is a simple yet powerful to-do application that helps you organize your tasks with priorities, due dates, and reminders. Built with vanilla HTML, CSS and JavaScript, it stores your tasks in your browser's local storage so they persist between sessions.
+![HTML](https://img.shields.io/badge/HTML5-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Stars](https://img.shields.io/github/stars/anshdeepofficial/Task-Management-Website?style=for-the-badge&logo=github)
 
-## Features
+<a href="https://github.com/sponsors/anshdeepofficial"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" /></a>
+<a href="https://buymeacoffee.com/anshdeepofficial"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000" alt="Buy Me a Coffee" /></a>
 
-- **Clean, Modern UI** with animated gradient background
-- **User Personalization** with customizable username and avatar
-- **Task Management**
-  - Add, complete, and track tasks
-  - Set priority levels (Low, Medium, High)
-  - Assign due dates to tasks
-  - Enable reminders for important tasks
-- **Task Organization**
-  - Visual priority indicators with color-coding
-  - Clear completion status
-  - Due date display
-- **Reminder System** that alerts you of tasks due today
-- **Local Storage** to save tasks between browser sessions
-- **Fully Responsive Design** that works on mobile and desktop
+</div>
+
+---
+
+## ✨ Overview
+
+TaskMaster is a lightweight task-management website built with vanilla web technologies. It keeps everyday planning simple while still supporting useful organization features and persistent local storage.
+
+## 🚀 Highlights
+
+- Add, complete, and manage tasks
+- Priority levels for important work
+- Due dates and reminder support
+- Personalized username and avatar
+- Visual task status and priority indicators
+- Browser `localStorage` persistence
+- Responsive layout for desktop and mobile
+- No framework or backend required
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+| --- | --- |
+| Structure | HTML5 |
+| Styling | CSS3 |
+| Logic | Vanilla JavaScript |
+| Storage | Browser Local Storage |
+
+## ⚡ Getting Started
+
+```bash
+git clone https://github.com/anshdeepofficial/Task-Management-Website.git
+cd Task-Management-Website
+```
+
+Open the main HTML file in a modern browser. Because the project is client-side, no server is required for the core experience.
+
+## 💡 How It Works
+
+Tasks and personalization settings are stored locally in the browser. This keeps the app fast and simple while preserving data between sessions on the same browser profile.
+
+## 🤝 Contributing
+
+Contributions are welcome. Keep changes focused, preserve the lightweight experience, and test responsive behavior before opening a pull request.
+
+---
+
+<div align="center">
+Built by <a href="https://github.com/anshdeepofficial">Anshdeep Singh</a>
+</div>
