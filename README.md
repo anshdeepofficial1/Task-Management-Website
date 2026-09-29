@@ -7,10 +7,10 @@
 ![HTML](https://img.shields.io/badge/HTML5-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Stars](https://img.shields.io/github/stars/anshdeepofficial/Task-Management-Website?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/anshdeepofficial1/Task-Management-Website?style=for-the-badge&logo=github)
 
-<a href="https://github.com/sponsors/anshdeepofficial"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" /></a>
-<a href="https://buymeacoffee.com/anshdeepofficial"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000" alt="Buy Me a Coffee" /></a>
+<a href="https://github.com/sponsors/anshdeepofficial1"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" /></a>
+<a href="https://buymeacoffee.com/anshdeepofficial1"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000" alt="Buy Me a Coffee" /></a>
 
 </div>
 
@@ -43,7 +43,7 @@ TaskMaster is a lightweight task-management website built with vanilla web techn
 ## ⚡ Getting Started
 
 ```bash
-git clone https://github.com/anshdeepofficial/Task-Management-Website.git
+git clone https://github.com/anshdeepofficial1/Task-Management-Website.git
 cd Task-Management-Website
 ```
 
@@ -60,5 +60,5 @@ Contributions are welcome. Keep changes focused, preserve the lightweight experi
 ---
 
 <div align="center">
-Built by <a href="https://github.com/anshdeepofficial">Anshdeep Singh</a>
+Built by <a href="https://github.com/anshdeepofficial1">Anshdeep Singh</a>
 </div>
